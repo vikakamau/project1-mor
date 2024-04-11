@@ -1,0 +1,39 @@
+@import url(./bootstarp.css);
+#welcome{
+    text-align: center;
+}
+#head{
+text-align: center;
+margin-top: 3%;
+}
+#info{
+padding: 1%;
+margin-left: 10%;
+}
+#num{
+    color: white;
+}
+#call{
+    color: orange;
+}
+#card{
+  padding: 1%;
+  margin-top: 2%;
+}
+#final{
+  padding: 1%;
+  margin-top: 1%;
+}
+.cars{
+  display: flex !important;
+  column-gap: 2px;
+}
+.card{
+  width: 250px !important;
+  display: flex !important;
+}
+#ava{
+  background-color: lightgrey;
+  color: blue;
+  text-align: center;
+}

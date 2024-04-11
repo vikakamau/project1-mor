@@ -1,0 +1,105 @@
+{
+    "cars":[
+{
+    "id": "1",
+    "Brand": "Toyota",
+    "Model": "corolla",
+    "Year": 2021,
+    "Color": "white",
+    "Price": 20000,
+    "description": "2.0L Dynamic Force direct injection petrol engine with an auto CVT or a 1.8L Toyota Hybrid Electric System with an auto CVT. Toyota Safety Sense[S1] for added safety and security. Includes Active Cruise Control (ACC), Pre-Collision Safety System (PCS) with Pedestrian and Cyclist Detection, Lane Departure Alert (LDA), Road Sign Assist (RSA) and Auto High Beam (AHB)",
+    "image": "images/toyota-corolla-hybrid-3.avif" 
+},
+{
+    "id": "2",
+    "Brand": "Toyota",
+    "Model": "Crown",
+    "Year": 2017,
+    "Color": "black",
+    "Price": 22000,  
+    "description": "The Toyota Crown has 1 Petrol Engine on offer. The Petrol engine is 2997 cc . It is available with Manual transmission.Depending upon the variant and fuel type the Crown has a mileage of 13.4 kmpl . The Crown is a 5 seater 4 cylinder car and has length of 4950 and width of 1790.Strong and lightweight, Toyota Crown’s alloy wheels improve both handling and acceleration, and play a pivotal role in its striking silhouette. On Platinum, 21-in. machine-finished 10-spoke alloy wheels with black accents accentuate Toyota Crown’s sporty design. For a sleek and sophisticated look, Limited’s Advanced Technology Package comes outfitted with 21-in. dark premium metallic wheels. And standard 19-in. alloy wheels elegantly complement this sedan’s dynamic style.",
+    "image": "images/crown2.jpg.webp" 
+},
+{
+    "id":"3",
+    "Brand": "Mazda",
+    "Model": "Atenza",
+    "Year": 2017,
+    "Color": "Silver",
+    "Price": 23000,
+    "description": "The 2.5-litre turbocharged petrol engine in the flagship Mazda 6 produces 173kW and 420Nm sent to the front wheels through a six-speed automatic transmission.For 2023, the peak power output has risen by 3kW (from 170kW previously), and Mazda claims the engine produces 8Nm more torque at 4200rpm. But the changes are so minor they may not be even noticeable on a back-to-back test drive.The engine’s outputs are close to hot-hatch territory, but the engine does not like to be revved to redline like a hot hatch, and instead has a more relaxed, diesel-like character that likes to be kept at low revs.When the turbocharger has spooled up – and the transmission is in the right gear – performance is strong and makes for swift highway overtaking, accompanied by a deep and rather satisfying rumble at lower revs.",
+    "image": "images/3322cb86ed5e3516ed0edaa768617d2b406d1799.jpg" 
+},
+{
+    "id": "4",
+    "Brand": "Mercedes",
+    "Model": "C200",
+    "Year": 2020,
+    "Color": "white",
+    "Price": 24000,
+    "description": "The Mercedes-Benz C200 is a rear wheel drive 4 door with 5 seats, powered by a 2.0L Turbo 4 Cylinder engine that has 150 kW of power (at 5800 rpm) and 300 Nm of torque (at 1800 rpm) via a 9 Speed Automatic G Tronic. Mercedes-Benz claims the C200 EDITION C uses 7.0L/100km of unleaded petrol in the combined city and highway cycle while putting out 159g of CO2. It has a 66L fuel tank, meaning it should be able to travel 943km per full tank.The mercedes-Benz C200 measures 1432mm (56.4 inches) in height, 4691mm (184.7 inches) in length, 1810mm (71.3 inches) in width with a 2840mm (111.8 inches) wheelbase that brings about a total of 1617kg (3564.9 lbs) of unladen weight. The C200 EDITION C comes standard with 225/40 R19 front tyres and 255/35 R19 rear tyres. It requires a service every 12 months or 25,000 km, whichever comes first. It has a 36 month, unlimited kilometre warranty",
+    "image": "images/mercedes-benz-c-class-2017-silver-2.webp"   
+},
+{
+    "id": "5",
+    "Brand": "Audi",
+    "Model": "A5",
+    "Year": 2019,
+    "Color": "white",
+    "Price": 23000,
+    "description": "The 2019 Audi A5 0-60 mph times vary slightly depending on your selected model. For instance, the 2019 Audi A5 Coupe models sprint from 0 to 60 mph in as little as 5.3 seconds. Marginally heavier models like the Audi A5 Cabriolet and the five-passenger Audi A5 Sportback take only a little longer to reach 60 mph from a standstill.The Audi A5 Sportback sprints to 60 mph in as little as 5.4 seconds with its available 261-horsepower engine. Even in base form with the 201-horsepower powertrain, the sportback model can go from 0 to 60 mph in 6.4 seconds. Opt for the Audi A5 Cabriolet and its drop-top design, and you can reach 60 mph in 5.6 seconds.",
+    "image": "images/audi a5.webp"  
+},
+{
+    "id": "6",
+    "Brand": "RangeRover",
+    "Model": "SportSVR",
+    "Year": 2021,
+    "Color": "Blue",
+    "Price": 24000,
+    "description": "The SVR boasts a distinctive design with a sporty and muscular stance, thanks to the enlarged air intakes, vented bonnet, and a more aggressive front and rear bumper design.On the other hand, the Range Rover Sport maintains a traditional, elegant, and understated look which has been a classic hallmark of the brand. It presents a clean design with its minimalist lines and a refined front grille.Given the performance upgrades, it is no surprise that the Range Rover Sport SVR has a higher fuel consumption and CO2 emissions level than the standard model. The SVR is rated at around 16.9 mpg (miles per gallon) with CO2 emissions of about 378 g/km.On the contrary, the regular Range Rover Sport, equipped with a Mild Hybrid Electric Vehicle (MHEV) system, delivers better fuel efficiency at around 30.4 mpg, with lower CO2 emissions of about 209 g/km. This makes the regular model a more environmentally friendly and economical option to run.",
+    "image": "images/range.jpg"   
+},
+{
+    "id": "7",
+    "Brand": "Porsche",
+    "Model": "Cayenne turbo",
+    "Year": 2021,
+    "Color": "Yellow",
+    "Price": 22000,
+    "description": " The Cayenne Turbo is powered by a 541-hp twin-turbocharged 4.0-liter V-8 engine with a conventional eight-speed automatic transmission. In our testing, it went from zero to 60 mph in 3.5 seconds. The Turbo S E-Hybrid's power and performance are even more extreme. It uses the same twin-turbo V-8 from the Cayenne Turbo, but Porsche has enhanced its power with a 134-hp electric motor sandwiched between the 4.0-liter and its responsive eight-speed automatic. Total output is a mind-boggling 670 horsepower, and speeds as high as 83 mph are possible without the gas engine ever switching on. The system also can operate in a battery-saving mode that only burns gas or the two systems can work together, and its operation is exceedingly smooth. Its battery pack can complete a full recharge in about 2.5 hours when connected to a 240-volt, 30-amp source, and the SUV has a pure electric range of more than 20 miles. Did we mention it can also sprint to 60 mph in 3.2 seconds and covers the quarter-mile in 11.5 seconds at 121 mph? It's one of the quickest SUVs we've ever tested. The Cayenne Turbo is powered by a 541-hp twin-turbocharged 4.0-liter V-8 engine with a conventional eight-speed automatic transmission. In our testing, it went from zero to 60 mph in 3.5 seconds. The Turbo S E-Hybrid's power and performance are even more extreme. It uses the same twin-turbo V-8 from the Cayenne Turbo, but Porsche has enhanced its power with a 134-hp electric motor sandwiched between the 4.0-liter and its responsive eight-speed automatic. Total output is a mind-boggling 670 horsepower, and speeds as high as 83 mph are possible without the gas engine ever switching on. The system also can operate in a battery-saving mode that only burns gas or the two systems can work together, and its operation is exceedingly smooth. Its battery pack can complete a full recharge in about 2.5 hours when connected to a 240-volt, 30-amp source, and the SUV has a pure electric range of more than 20 miles. Did we mention it can also sprint to 60 mph in 3.2 seconds and covers the quarter-mile in 11.5 seconds at 121 mph? It's one of the quickest SUVs we've ever tested.",
+    "image": "images/2021-porsche-cayenne-turbo-mmp-1-1605823574.jpg"   
+},
+{
+    "id": "8",
+    "Brand": "lexus",
+    "Model": "lx570",
+    "Year": 2022,
+    "Color": "Black",
+    "Price": 87875,
+    "description": "As the name alludes to, the LX 570 gets its power from a 5.7-liter V-8 making 383 hp and 403 lb-ft of torque. The old-school engine pairs up to a new-school 8-speed automatic transmission, but gas mileage is still low at 12 mpg city, 16 highway, 14 combined. Thankfully, that figure factors in the standard four-wheel drive. The six-figure LX rightfully includes standard automatic emergency braking, automatic high-beam headlights, lane-departure warnings, blind-spot monitors, and adaptive cruise control. In all its years on the market, the NHTSA and IIHS have not seen fit to crash-test the LX.Buying a Lexus LX 570 is easy: it's sold with one engine, in two trim levels, and with only a handful of options. The $87,875 MSRP includes a 12.3-inch touchscreen with navigation, four-zone climate control, power-adjustable and heated front seats, leather upholstery, a surround-view camera system, and 20-inch wheels. An adaptive suspension with height control is also standard, as is a collection of off-road equipment that encompasses multiple terrain drive modes, a trail-focused cruise control, and torque-vectoring turn-assist. Two rows of seats are standard; a three-row model costs about $5,000 more.",
+    "image": "images/USC90LES131B021001.webp"   
+},
+{
+    "id": "9",
+    "Brand": "Toyota",
+    "Model": "fielder",
+    "Year": 2014,
+    "Color": "Blue",
+    "Price": 14000,
+    "description": "For models produced in March 2015 and onwards, the “Toyota Safety Sense C” safety package option is available. This includes a Pre-Collision System (PCS) and Lane Departure Alert (LDA) to increase driver vigilance and prevent accidents, as well as an Automatic High Beam (AHM) system, which detects light levels and automatically toggles between high beams and low beams accordingly. it has a 1500cc diesel/petro engine with 170nm of torque it consume 1litre of petrol per 25km",
+    "image": "images/fielder.webp"   
+},
+{
+    "id": "10",
+    "Brand": "BMW",
+    "Model": "X7",
+    "Year": 2021,
+    "Color": "green",
+    "Price": 24000,
+    "description": "Performance. The BMW X7 is offered with in-line 6-cylinder turbo-petrol or turbo-diesel engines with a 48 V mild-hybrid to aid performance and fuel efficiency. The claimed fuel efficiency of the petrol stands at 11.29 kmpl while the diesel delivers a claimed 14.31 kmpl",
+    "image": "images/bmw.avif"   
+}
+
+]
+}
