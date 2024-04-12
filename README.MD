@@ -5,7 +5,7 @@
 #### By *VICTOR GATHII KAMAU*
 
 ## Description
-It's a webpage that uses html, css, javascript, dbjson it is a car website with a navigation bar and details and on clicking the dropdown in nav bar it displays a carbrand and on clicking it takes you to a web displaying various vehicles information prices and a request to buy button on clicking the button it displays a form to fill in your details.
+It's a webpage that uses html, css, javascript, dbjson it is a car website with a navigation bar . upon click about us, it smoothly scrolls down to the about section and displays the information. upon clicking contact us it smooothls scrools down and displays the contact info for the website. it has a dropdown menu with carbrands in which when clicking carbrands it displays a welcome messagage alert and smoothly scrolls you down where we have a card list of available cars, the piture,description,year,price and color the cards uses the get function from the json file to display the information.at the bottom the is request a car button in which upon clicking it displays a fform to fiillin your details after filling and clicking submit it displays an alert message saying your form has been filled and then refreshes the form.
 ## Installation
 You use git clone to be able to download the documents in the GitHub
 
