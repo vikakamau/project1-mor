@@ -85,7 +85,7 @@ function displayForm(cardId) {
     submitButton.addEventListener('click', (event)=>{ //add an event listener click
         event.preventDefault()
         alert(`Your form has been submitted.Thank you for choosing
-        VIKOZ MOTORS our help team will reach out to your shortl to discuss further on the car brand choosen
+        VIKOZ MOTORS our help team will reach out to your shortly to discuss further on the car brand choosen
         Thankyou and have a nice day. for more enquiries call us on 0705237806`)
 
         form.reset()// reets the form back to its original content

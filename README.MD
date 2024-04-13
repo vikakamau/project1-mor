@@ -15,11 +15,10 @@ Git
 ### Installation instruction
 ```
 Git clone https://github.com/vikakamau/project1-mor
-```
 
 # Live Link
-[Git](gh-pages link)
 
+https://github.com/vikakamau/project1-mor
 ## Technologies used
 Github
 Javascript
